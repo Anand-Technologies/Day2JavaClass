@@ -20,5 +20,6 @@ public class DataTypes {
 			System.out.println("Is it Permanant employee :"+perEmp);
 		float sal = 12233.45f;
 			System.out.println("Employee Salary is :"+sal);
+			System.out.println("Code");
 	}
 }
